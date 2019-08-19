@@ -1,7 +1,6 @@
 [
   {
     "name": "perceel",
-    "config": "config/config-ap.json",
     "type": "ap",
     "title" : "Perceel",
     "eap": "OSLO-Perceel.eap",
