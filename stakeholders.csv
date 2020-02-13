@@ -1,41 +1,41 @@
-Voornaam;Naam;Affiliatie;E-mail;Website;Adres;Persoon;Organisatie;Dienst;Generiek;Gebouw;Subsidie;Notificatie;Toestemming;Transactie;Melding;OpenbaarDomein;Weg;Besluit;Mandaat;Bestuur;Wetgeving;Mobiliteit;VlaamseCodex;DCATAPVL;Verkeersborden;Logies;Besluitvorming;Subsidies;Perceel;Bedrijventerrein
-Michiel;De Keyzer;PwC;michiel.de.keyzer@pwc.com;http://www.pwc.be;;;;;;;;;;;;;;;;;;;;;;;;;E;E
-Kevin;Haleydt;PwC;kevin.haleydt@pwc.com;http://www.pwc.be;;;;;;;;;;;;;;;;;;;;;;;;;E;E
-Toon;Dirckx;Quares;toon.dirckx@quares.be;;;;;;;;;;;;;;;;;;;;;;;;;;;C
-Pascal;De Greve;Agentschap Innoveren en Ondernemen;pascal.degreve@vlaio.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;C
-Griet;Keersmaekers;Mathieu Gijbels;griet.keersmaekers@gijbels.be;;;;;;;;;;;;;;;;;;;;;;;;;;;C
-Benoit;Bodré;Provinciale Ontwikkelingsmaatschappij Oost-Vlaanderen;benoit.bodere@pomov.be;;;;;;;;;;;;;;;;;;;;;;;;;;;C
-Caroline;Vandendriessche;VLINTER (Interleuven);caroline.vandendriessche@interleuven.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;C
-Ben;Six;Futurn NV;ben@futurn.com;;;;;;;;;;;;;;;;;;;;;;;;;;;C
-Bram;Adams;VLINTER (Interleuven);bram.adams@interleuven.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;C
-Hendrik;Van Hemelryck;Agentschap Informatie Vlaanderen;hendrik.vanhemelryck@kb.vlaanderen.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;C
-Sophie;De Mulder;Departement Omgeving;sophie.demulder@vlaanderen.be;;;;;;;;;;;;;;;;;;;;;;;;;;;C
-Dirk;De Baere;Agentschap Informatie Vlaanderen;dirk.debaere@kb.vlaanderen.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;C
-Geert;Van Haute;Departement Omgeving;geert.vanhaute@vlaanderen.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;C
-Veronique;Lavaert;Departement Omgeving;Veronique.Lavaert@vlaanderen.be;;;;;;;;;;;;;;;;;;;;;;;;;;;C
-Iris;Deliever;Provinciale Ontwikkelingsmaatschappij Vlaams-Brabant;iris.deliever@pomvlaamsbrabant.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;C
-Koen;De Baets;Agentschap Informatie Vlaanderen;Koen.DeBaets@kb.vlaanderen.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;C
-Idris;Peiren;Agentschap Innoveren en Ondernemen;idris.peiren@vlaio.be;;;;;;;;;;;;;;;;;;;;;;;;;;A;A
-Floris;Van den Broeck;Agentschap Innoveren en Ondernemen;floris.vandenbroeck@vlaio.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;C
-Bert;Van Nuffelen;Agentschap Informatie Vlaanderen;bert.vannuffelen@kb.vlaanderen.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;C
-Jana;Van Rompaey;Provinciale Ontwikkelingsmaatschappij Vlaams-Brabant;jana.vanrompaey@pomvlaamsbrabant.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;C
-Tom;Decock;Provinciale Ontwikkelingsmaatschappij West-Vlaanderen;tom.decock@pomwvl.be;;;;;;;;;;;;;;;;;;;;;;;;;;;C
-Raf;Deblay;Aura;raf.deblay@aura.eu.com;;;;;;;;;;;;;;;;;;;;;;;;;;;C
-Maxime;Heyndrickx;SCIP-CSPI;maxime.heyndrickx@scip-cspi.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;
-Stefan;Van Malderen;Agentschap Informatie Vlaanderen;Stefan.VanMalderen@kb.vlaanderen.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;
-Erwin;Sevens;Openbare Vlaamse Afvalstoffenmaatschappij;esevens@ovam.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;
-Joris;Niessen;Departement Omgeving;joris.niessen@vlaanderen.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;
-Diedrik;Gaus;Stad Gent;Diedrik.Gaus@stad.gent;;;;;;;;;;;;;;;;;;;;;;;;;;C;
-Bart;Boute;WVI;b.boute@wvi.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;
-Luc;Depredomme;Agentschap Informatie Vlaanderen;Luc.Depredomme@kb.vlaanderen.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;
-Raf;Buyle;Agentschap Informatie Vlaanderen;;;;;;;;;;;;;;;;;;;;;;;;;;;C;
-Veerle;Beyaert;Agentschap Informatie Vlaanderen;veerle.beyaert@kb.vlaanderen.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;
-Hilde;Blondeel;Federale Overheidsdiesnt Financiën;reinhilde.blondeel@minfin.fed.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;
-Pieter;Roggemans;Departement Landbouw en Visserij;pieter.roggemans@lv.vlaanderen.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;
-Bart;Bollen;Departement Landbouw en Visserij;Bart.Bollen@lv.vlaanderen.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;
-Bart;De Bruyn;Vlaamse Landmaatschappij;bart.debruyn@vlm.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;
-Joke;De Wit;Federale Overheidsdiesnt Financiën;joke.dewit@minfin.fed.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;
-Laurens;Vercauteren;Agentschap Informatie Vlaanderen;;;;;;;;;;;;;;;;;;;;;;;;;;;C;
-Ziggy;Vanlishout;Agentschap Informatie Vlaanderen;;;;;;;;;;;;;;;;;;;;;;;;;;;C;
-Rebecca;Dhaeseleer;CIB;rebecca.dhaeseleer@cib.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;
-Nele;Vanhoutte;Hogeschool Gent;nele.vanhoutte@hogent.be;;;;;;;;;;;;;;;;;;;;;;;;;;C;
+Voornaam;Naam;Affiliatie;E-mail;Website;Perceel;Bedrijventerrein
+Michiel;De Keyzer;PwC;michiel.de.keyzer@pwc.com;http://www.pwc.be;E;E
+Kevin;Haleydt;PwC;kevin.haleydt@pwc.com;http://www.pwc.be;E;E
+Toon;Dirckx;Quares;toon.dirckx@quares.be;;;C
+Pascal;De Greve;Agentschap Innoveren en Ondernemen;pascal.degreve@vlaio.be;;C;C
+Griet;Keersmaekers;Mathieu Gijbels;griet.keersmaekers@gijbels.be;;;C
+Benoit;BodrÃ©;Provinciale Ontwikkelingsmaatschappij Oost-Vlaanderen;benoit.bodere@pomov.be;;;C
+Caroline;Vandendriessche;VLINTER (Interleuven);caroline.vandendriessche@interleuven.be;;C;C
+Ben;Six;Futurn NV;ben@futurn.com;;;C
+Bram;Adams;VLINTER (Interleuven);bram.adams@interleuven.be;;C;C
+Hendrik;Van Hemelryck;Agentschap Informatie Vlaanderen;hendrik.vanhemelryck@kb.vlaanderen.be;;C;C
+Sophie;De Mulder;Departement Omgeving;sophie.demulder@vlaanderen.be;;;C
+Dirk;De Baere;Agentschap Informatie Vlaanderen;dirk.debaere@kb.vlaanderen.be;;C;C
+Geert;Van Haute;Departement Omgeving;geert.vanhaute@vlaanderen.be;;C;C
+Veronique;Lavaert;Departement Omgeving;Veronique.Lavaert@vlaanderen.be;;;C
+Iris;Deliever;Provinciale Ontwikkelingsmaatschappij Vlaams-Brabant;iris.deliever@pomvlaamsbrabant.be;;C;C
+Koen;De Baets;Agentschap Informatie Vlaanderen;Koen.DeBaets@kb.vlaanderen.be;;C;C
+Idris;Peiren;Agentschap Innoveren en Ondernemen;idris.peiren@vlaio.be;;A;A
+Floris;Van den Broeck;Agentschap Innoveren en Ondernemen;floris.vandenbroeck@vlaio.be;;C;C
+Bert;Van Nuffelen;Agentschap Informatie Vlaanderen;bert.vannuffelen@kb.vlaanderen.be;;C;C
+Jana;Van Rompaey;Provinciale Ontwikkelingsmaatschappij Vlaams-Brabant;jana.vanrompaey@pomvlaamsbrabant.be;;C;C
+Tom;Decock;Provinciale Ontwikkelingsmaatschappij West-Vlaanderen;tom.decock@pomwvl.be;;;C
+Raf;Deblay;Aura;raf.deblay@aura.eu.com;;;C
+Maxime;Heyndrickx;SCIP-CSPI;maxime.heyndrickx@scip-cspi.be;;C;
+Stefan;Van Malderen;Agentschap Informatie Vlaanderen;Stefan.VanMalderen@kb.vlaanderen.be;;C;
+Erwin;Sevens;Openbare Vlaamse Afvalstoffenmaatschappij;esevens@ovam.be;;C;
+Joris;Niessen;Departement Omgeving;joris.niessen@vlaanderen.be;;C;
+Diedrik;Gaus;Stad Gent;Diedrik.Gaus@stad.gent;;C;
+Bart;Boute;WVI;b.boute@wvi.be;;C;
+Luc;Depredomme;Agentschap Informatie Vlaanderen;Luc.Depredomme@kb.vlaanderen.be;;C;
+Raf;Buyle;Agentschap Informatie Vlaanderen;;;C;
+Veerle;Beyaert;Agentschap Informatie Vlaanderen;veerle.beyaert@kb.vlaanderen.be;;C;
+Hilde;Blondeel;Federale Overheidsdiesnt FinanciÃ«n;reinhilde.blondeel@minfin.fed.be;;C;
+Pieter;Roggemans;Departement Landbouw en Visserij;pieter.roggemans@lv.vlaanderen.be;;C;
+Bart;Bollen;Departement Landbouw en Visserij;Bart.Bollen@lv.vlaanderen.be;;C;
+Bart;De Bruyn;Vlaamse Landmaatschappij;bart.debruyn@vlm.be;;C;
+Joke;De Wit;Federale Overheidsdiesnt FinanciÃ«n;joke.dewit@minfin.fed.be;;C;
+Laurens;Vercauteren;Agentschap Informatie Vlaanderen;;;C;
+Ziggy;Vanlishout;Agentschap Informatie Vlaanderen;;;C;
+Rebecca;Dhaeseleer;CIB;rebecca.dhaeseleer@cib.be;;C;
+Nele;Vanhoutte;Hogeschool Gent;nele.vanhoutte@hogent.be;;C;
