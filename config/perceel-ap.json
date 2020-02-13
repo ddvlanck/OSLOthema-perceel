@@ -4,7 +4,7 @@
     "type": "ap",
     "title" : "Perceel",
     "eap": "OSLO-Perceel-AP.eap",
-    "diagram": "OSLO-Perceel",
+    "diagram": "OSLO-PerceelApplicatieprofiel",
     "template": "perceel-ap.j2",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpStandaard",
     "publication-date": "2019-08-21",
