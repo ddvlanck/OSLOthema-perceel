@@ -3,7 +3,7 @@
     "name": "bedrijventerrein",
     "type": "voc",
     "title" : "Bedrijventerrein",
-    "eap": "OSLO-Bedrijventerrein.eap",
+    "eap": "OSLO-Bedrijventerrein-VOC.eap",
     "diagram": "OSLO-Bedrijventerrein",
     "template": "bedrijventerrein-voc.j2",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpStandaard",
