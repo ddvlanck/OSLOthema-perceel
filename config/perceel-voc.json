@@ -3,17 +3,17 @@
     "name": "perceel",
     "type": "voc",
     "title" : "Perceel",
-    "eap": "OSLO-Perceel.eap",
+    "eap": "OSLO-Perceel-VOC.eap",
     "diagram": "OSLO-Perceel",
     "template": "perceel-voc.j2",
-    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpStandaard",
     "publication-date": "2019-08-21",
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Perceel",
     "site": "site-skeleton/perceel",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-perceel/issues",
-    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/kandidaat-standaarden/vocabularium-percelen/vocabularium-percelen.html",
     "dependencies": []
   }
 ]
