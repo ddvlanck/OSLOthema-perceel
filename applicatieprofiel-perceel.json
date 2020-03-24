@@ -1,0 +1,74 @@
+{
+  "naam": "Applicatieprofiel Percelen",
+  "verantwoordelijke_organisatie": "Agentschap Innoveren en Ondernemen",
+  "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000039",
+  "publicatiedatum": "TBD",
+  "type_toepassing": "",
+  "categorie": "Vocabularium & applicatieprofielen",
+  "specificatiedocument": [
+    {
+      "naam" : "Applicatieprofiel Perceel",
+      "waarde" : "https://data.vlaanderen.be/doc/applicatieprofiel/perceel/"
+    },
+    {
+      "naam": "Vocabularium Perceel",
+      "waarde": "https://data.vlaanderen.be/ns/perceel"
+    }
+  ],
+  "documentatie": [],
+  "charter": [
+    {
+      "naam": "Werkgroep Charter OSLO Percelen & Bedrijventerreinen",
+      "waarde": "Werkgroep charter OSLO Percelen_v0.04.docx"
+    }
+  ],
+  "verslagen": [
+    {
+      "naam": "Verslag Business werkgroep - Perceel 2019-03-25",
+      "waarde": "Verslag BW1 - OSLO-Percelen- 20190325.docx"
+    },
+    {
+      "naam" : "Verslag Thematische werkgroep 1 - Perceel 2019-04-05",
+      "waarde" : "Verslag Thematische werkgroep 1 - OSLO-Percelen- 20190405.docx"
+    },
+    {
+      "naam" : "Verslag Thematische werkgroep 2 - Perceel 2019-05-06",
+      "waarde" : "Verslag Thematische werkgroep 2 - OSLO-Percelen- 20190506.docx"
+    },
+    {
+      "naam" : "Verslag Thematische werkgroep 3 - Perceel 2019-06-12",
+      "waarde" : "Verslag Thematische werkgroep 3 - OSLO-Percelen- 20190612.docx"
+    },
+    {
+      "naam" : "Verslag Thematische werkgroep 4 2019-06-26",
+      "waarde" : "Verslag Thematische werkgroep 4 - OSLO-Perceel- 20190626.docx"
+    }
+  ],
+  "presentaties": [
+    {
+      "naam" : "Presentatie Business werkgroep - Perceel 2019-03-25",
+      "waarde" : "OSLO-Presentatie-Percelen_businessworkshop_v1.2.pptx"
+    },
+    {
+      "naam" : "Presentatie Thematische werkgroep 1 - Perceel 2019-04-05",
+      "waarde" : "Thematische werkgroep 1 - OSLO Percelen 20190405.pptx"
+    },
+    {
+      "naam" : "Presentatie Thematische werkgroep 2 - Perceel 2019-05-06",
+      "waarde" : "Thematische werkgroep 2 - OSLO Percelen 20190506.pptx"
+    },
+    {
+      "naam" : "Presentatie Thematische werkgroep 3 - Perceel 2019-06-12",
+      "waarde" : "Thematische werkgroep 3 - OSLO Percelen 20190612 v1.pptx"
+    },
+    {
+      "naam" : "Presentatie Thematische werkgroep 4 OSLO Percelen 2019-06-26",
+      "waarde" : "Thematische werkgroep 4 - OSLO Percelen 20190626.pptx"
+    }
+  ],
+  "functioneel_toepassingsgebied": "Semantische standaard voor het bouwen van een subsidieregister",
+  "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
+  "datum_van_aanmelding": "14 Maart 2019",
+  "erkenning_werkgroep_datastandaarden": "TBD",
+  "erkenning_stuurgroep": "TBD"
+}
